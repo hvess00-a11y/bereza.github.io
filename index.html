@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Bereza Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;600;700&family=Onest:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<!-- ===== COOKIE OVERLAY ===== -->
+<div id="cookie-overlay">
+  <div class="cookie-box">
+    <div class="cookie-logo"><i class="fa-solid fa-leaf"></i></div>
+    <h2 id="cookie-title-text">Добро пожаловать в Bereza Studio</h2>
+    <p id="cookie-desc">Мы используем <a href="https://policies.google.com/technologies/cookies" target="_blank">файлы cookie</a> для корректной работы сайта. Продолжая, вы соглашаетесь с их использованием.</p>
+    <div class="lang-selector">
+      <button class="lang-btn active" onclick="setLang('ru',this)"><i class="fa-solid fa-flag" style="margin-right:6px"></i>Русский</button>
+      <button class="lang-btn" onclick="setLang('en',this)"><i class="fa-solid fa-flag" style="margin-right:6px"></i>English</button>
+    </div>
+    <button class="cookie-continue" id="cookie-btn" onclick="closeCookie()">Продолжить</button>
+    <div class="cookie-pp"><span id="cookie-pp-text">Нажимая кнопку, вы принимаете нашу</span> <a href="pp.txt" target="_blank">Политику конфиденциальности</a></div>
+  </div>
+</div>
+
+<!-- ===== NAVBAR ===== -->
+<nav id="navbar">
+  <a class="nav-logo" href="#" onclick="navTo('home')">
+    <div class="nav-logo-img">
+      <img src="brz.png" alt="Bereza" onerror="this.parentNode.innerHTML='<i class=\'fa-solid fa-leaf\'></i>'"/>
+    </div>
+    <span>Bereza Studio</span>
+  </a>
+  <div class="nav-links" id="nav-links">
+    <a class="nav-link active" onclick="navTo('home')" data-page="home" id="nav-en-home">Главная</a>
+    <a class="nav-link" onclick="navTo('maps')" data-page="maps" id="nav-en-maps">Карты</a>
+    <a class="nav-link" onclick="navTo('install')" data-page="install" id="nav-en-install">Установка</a>
+    <a class="nav-link" onclick="navTo('settings')" data-page="settings" id="nav-en-settings">Настройки</a>
+    <a class="nav-faq" onclick="navTo('faq')" data-page="faq" id="nav-en-faq">FAQ</a>
+  </div>
+  <div class="nav-hamburger" id="hamburger" onclick="toggleMenu()">
+    <span></span><span></span><span></span>
+  </div>
+</nav>
+
+<!-- ===== HOME ===== -->
+<section class="page-section active" id="page-home">
+  <div class="hero">
+    <div class="hero-badge"><i class="fa-solid fa-cube"></i><span id="hero-badge-text">Minecraft Карты</span></div>
+    <h1 id="hero-title">Minecraft карты<br>на <span>прохождение</span></h1>
+    <p class="hero-sub" id="hero-sub">Bereza Studio — Небольшая команда мап‑мейкеров.</p>
+    <div class="hero-socials">
+      <a class="social-btn" href="https://minecraft-inside.ru/user/boeriss/" target="_blank"><i class="fa-solid fa-cube"></i><span>Minecraft Inside</span></a>
+      <a class="social-btn" href="https://t.me/parliamentt_t" target="_blank"><i class="fa-brands fa-telegram"></i><span>Telegram</span></a>
+      <a class="social-btn" href="https://vk.com/pasha_chaunkku" target="_blank"><i class="fa-brands fa-vk"></i><span>ВКонтакте</span></a>
+      <a class="social-btn" href="https://www.youtube.com/@КомандаБерёзы" target="_blank"><i class="fa-brands fa-youtube"></i><span>YouTube</span></a>
+    </div>
+    <div class="scroll-hint"><i class="fa-solid fa-chevron-down"></i><span id="scroll-hint-text">Листать вниз</span></div>
+  </div>
+
+  <!-- HONOR BOARD -->
+  <div class="section-block">
+    <div class="section-title"><span id="honor-title">Доска Почёта</span></div>
+    <p class="section-sub" id="honor-sub">Люди, которые поддержали нас</p>
+    <div class="honor-grid">
+      <div class="honor-category">
+        <div class="honor-category-title"><i class="fa-solid fa-heart"></i> <span id="honor-donates">Донаты</span></div>
+        <div class="honor-item"><span class="honor-name">Симба</span><span class="honor-amount">75 ₽</span></div>
+        <div class="honor-item"><span class="honor-name">Потешный Лобок</span><span class="honor-amount">75 ₽</span></div>
+        <div class="honor-item"><span class="honor-name">Диана Райдер</span><span class="honor-amount">75 ₽</span></div>
+        <div class="honor-item"><span class="honor-name">Skirl</span><span class="honor-amount">100 ₽</span></div>
+        <div class="honor-item"><span class="honor-name">Аноним</span><span class="honor-amount">125 ₽</span></div>
+        <div class="honor-item"><span class="honor-name">Аноним</span><span class="honor-amount">3,25 €</span></div>
+        <div class="honor-item"><span class="honor-name">Аноним</span><span class="honor-amount">4 €</span></div>
+        <div class="honor-item"><span class="honor-name">Вывеска Педро</span><span class="honor-amount">400 ₽</span></div>
+      </div>
+      <div class="honor-category">
+        <div class="honor-category-title"><i class="fa-brands fa-twitch"></i> <span id="honor-streamers">Twitch-Стримеры</span></div>
+        <div class="honor-item"><span class="honor-name">makuchino</span></div>
+        <div class="honor-item"><span class="honor-name">yapaster</span></div>
+        <div class="honor-item"><span class="honor-name">avenss302</span></div>
+        <div class="honor-item"><span class="honor-name">Brejneww</span></div>
+        <div class="honor-item"><span class="honor-name">VVISEMM</span></div>
+        <div class="honor-item"><span class="honor-name">emerald_yt_official</span></div>
+        <div class="honor-item"><span class="honor-name">jabki4</span></div>
+        <div class="honor-item"><span class="honor-name">chambo19</span></div>
+        <div class="honor-item"><span class="honor-name">mr_mercuri9878</span></div>
+      </div>
+      <div class="honor-category">
+        <div class="honor-category-title"><i class="fa-solid fa-star"></i> <span id="honor-others">Остальные</span></div>
+        <div class="honor-item"><span class="honor-name">Kelson555</span></div>
+        <div class="honor-item"><span class="honor-name">good-f</span></div>
+        <div class="honor-item"><span class="honor-name">HDS_PS</span></div>
+        <div class="honor-item"><span class="honor-name">UdzinRiveer</span></div>
+        <div class="honor-item"><span class="honor-name">tiraa</span></div>
+        <div class="honor-item"><span class="honor-name">YT_Night</span></div>
+        <div class="honor-item"><span class="honor-name">Jakir</span></div>
+        <div class="honor-item"><span class="honor-name">Lobster</span></div>
+      </div>
+    </div>
+
+    <div class="glowing-divider"></div>
+
+    <!-- TEAM -->
+    <div class="section-title"><span id="team-title">Наша Команда</span></div>
+    <p class="section-sub" id="team-sub">Основатели, участники и голоса</p>
+
+    <div class="team-section-label" id="team-founders-label">Основатели и Руководство</div>
+    <div class="team-grid">
+      <div class="team-card">
+        <div class="team-avatar"><img src="br.png" alt="Boeriss" onerror="this.parentNode.innerHTML='<i class=\'fa-solid fa-user\'></i>'"/></div>
+        <div class="team-name">Boeriss</div>
+        <div class="team-roles">
+          <span class="team-role">Гл. Строитель</span><span class="team-role">Основатель</span>
+          <span class="team-role">Саунддизайнер</span><span class="team-role">Дизайнер</span><span class="team-role">Скриптёр</span>
+        </div>
+      </div>
+      <div class="team-card">
+        <div class="team-avatar"><img src="brz.png" alt="Yallpopovich" onerror="this.parentNode.innerHTML='<i class=\'fa-solid fa-leaf\'></i>'"/></div>
+        <div class="team-name">Yallpopovich</div>
+        <div class="team-roles">
+          <span class="team-role">Строитель</span><span class="team-role">Со‑основатель</span><span class="team-role">Дизайнер</span>
+        </div>
+      </div>
+      <div class="team-card">
+        <div class="team-avatar"><img src="brz.png" alt="Gesternyen" onerror="this.parentNode.innerHTML='<i class=\'fa-solid fa-leaf\'></i>'"/></div>
+        <div class="team-name">Gesternyen</div>
+        <div class="team-roles">
+          <span class="team-role">Саунддизайнер</span><span class="team-role">Дизайнер</span>
+        </div>
+      </div>
+      <div class="team-card">
+        <div class="team-avatar"><img src="ak.png" alt="Akemi" onerror="this.parentNode.innerHTML='<i class=\'fa-solid fa-user\'></i>'"/></div>
+        <div class="team-name">Akemi</div>
+        <div class="team-roles">
+          <span class="team-role">Режиссёр сюжета</span><span class="team-role">Голосовой режиссёр</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="team-section-label" id="team-voice-ru-label">Озвучка (RU)</div>
+    <div class="team-voice-grid">
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">getrennt</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Кирилл</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Елизавета</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">LiRyol (Лирёл)</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Алексей Волошин</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Даниил Хватов</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Rem0</span></div>
+    </div>
+
+    <div class="team-section-label" id="team-voice-en-label">Озвучка (EN)</div>
+    <div class="team-voice-grid">
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Connor Blake</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Travelq.Q.q</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Jissyzq</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Evelyn Cross</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Julian Hartley</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Alex 4P-P</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Noah Redfield</span></div>
+      <div class="team-voice-card"><div class="team-voice-icon"><i class="fa-solid fa-microphone"></i></div><span class="team-voice-name">Daniel Frost</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== MAPS ===== -->
+<section class="page-section" id="page-maps">
+  <div class="section-block">
+    <div class="section-title"><span id="maps-title">Карты</span></div>
+    <p class="section-sub" id="maps-sub">Все наши проекты в одном месте</p>
+    <div class="maps-tabs">
+      <button class="maps-tab active" onclick="switchMapsTab('released',this)" id="tab-released">Готовые</button>
+      <button class="maps-tab" onclick="switchMapsTab('coming',this)" id="tab-coming">В разработке</button>
+    </div>
+
+    <div class="maps-panel active" id="maps-released">
+      <!-- PROJECT NEPTUNE -->
+      <div class="map-card">
+        <div class="map-hero">
+          <img class="map-hero-img" src="nep.png" alt="Project Neptune" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"/>
+          <div class="map-hero-placeholder" style="display:none"><i class="fa-solid fa-image"></i>nep.png</div>
+          <div class="map-tags">
+            <span class="map-tag teal">1.21.5</span><span class="map-tag">37 МБ</span><span class="map-tag">3 версии</span>
+          </div>
+          <button class="map-share-btn" onclick="shareMap('neptune')"><i class="fa-solid fa-share-nodes"></i></button>
+        </div>
+        <div class="map-body">
+          <div class="map-title">Project Neptune <span>| Chapter 1</span></div>
+          <div class="map-specs">
+            <div class="map-spec"><i class="fa-brands fa-java"></i><span>Java 1.21.5 (Optifine / Sodium / Vanilla)</span></div>
+            <div class="map-spec"><i class="fa-solid fa-user"></i><span class="spec-solo">Одиночка</span></div>
+          </div>
+          <p class="map-desc" id="nep-desc">Проект «Нептун» — атмосферная сюжетная карта в стиле советской ретрофутуристики. Вы — Виктор, объект секретного эксперимента, очнувшийся в подводном комплексе «Нептун» после катастрофы. Присутствует озвучка и кат-сцены.</p>
+          <div class="map-inner-tabs">
+            <button class="map-inner-tab active" onclick="switchInnerTab('nep','gallery',this)" id="nep-tab-gallery">Галерея</button>
+            <button class="map-inner-tab" onclick="switchInnerTab('nep','trailers',this)" id="nep-tab-trailers">Трейлеры</button>
+            <button class="map-inner-tab" onclick="switchInnerTab('nep','playthroughs',this)" id="nep-tab-playthroughs">Прохождения</button>
+            <button class="map-inner-tab" onclick="switchInnerTab('nep','downloads',this)" id="nep-tab-downloads">Скачать</button>
+          </div>
+          <div class="map-inner-panel active" id="nep-gallery">
+            <div class="map-gallery">
+              <div class="gallery-thumb" onclick="openLightbox('ps-1.png')"><img src="ps-1.png" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div>
+              <div class="gallery-thumb" onclick="openLightbox('ps-2.png')"><img src="ps-2.png" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div>
+            </div>
+          </div>
+          <div class="map-inner-panel" id="nep-trailers">
+            <div style="display:flex;flex-direction:column;align-items:center;padding:40px 0;gap:14px;">
+              <div style="width:64px;height:64px;border-radius:50%;background:var(--teal-glow);border:1px solid var(--glass-border-teal);display:flex;align-items:center;justify-content:center;">
+                <img src="brz.png" alt="" style="width:36px;height:36px;object-fit:contain" onerror="this.outerHTML='<i class=\'fa-solid fa-film\' style=\'color:var(--teal);font-size:1.4rem\'></i>'"/>
+              </div>
+              <p style="color:var(--text-dim);font-size:.88rem" id="nep-trailer-empty">Трейлеры пока не добавлены — скоро!</p>
+            </div>
+          </div>
+          <div class="map-inner-panel" id="nep-playthroughs">
+            <p class="video-note" id="nep-video-note"><i class="fa-solid fa-circle-info" style="margin-right:6px;color:var(--teal)"></i>Прохождения сделаны сторонними авторами.</p>
+            <div class="video-grid">
+              <div class="video-frame"><iframe src="https://www.youtube.com/embed/EQZ1M5xWiMs" allowfullscreen loading="lazy"></iframe></div>
+              <div class="video-frame"><iframe src="https://www.youtube.com/embed/tvyIDs19JIo" allowfullscreen loading="lazy"></iframe></div>
+              <div class="video-frame"><iframe src="https://www.youtube.com/embed/2VcrqqB2HCU" allowfullscreen loading="lazy"></iframe></div>
+            </div>
+          </div>
+          <div class="map-inner-panel" id="nep-downloads">
+            <div class="downloads-list">
+              <div class="download-item"><span class="download-label">Beta 2.3</span><a class="btn-outline" href="https://minecraft-inside.ru/download/426357/" target="_blank"><i class="fa-solid fa-download"></i><span>Скачать</span></a></div>
+              <div class="download-item"><span class="download-label">Beta 3.0</span><a class="btn-outline" href="https://disk.yandex.ru/d/H1J7CqFAMGAy-g" target="_blank"><i class="fa-solid fa-download"></i><span>Скачать</span></a></div>
+              <div class="download-item"><span class="download-label">Beta 3.2</span><a class="btn-outline" href="https://disk.yandex.ru/d/H1J7CqFAMGAy-g" target="_blank"><i class="fa-solid fa-download"></i><span>Скачать</span></a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ROADSIDE RESTAURANT -->
+      <div class="map-card">
+        <div class="map-hero">
+          <img class="map-hero-img" src="res.png" alt="Roadside Restaurant" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"/>
+          <div class="map-hero-placeholder" style="display:none"><i class="fa-solid fa-image"></i>res.png</div>
+          <div class="map-tags">
+            <span class="map-tag teal">1.21.4</span><span class="map-tag">36 МБ</span><span class="map-tag">Beta 9.2</span>
+          </div>
+          <button class="map-share-btn" onclick="shareMap('roadside')"><i class="fa-solid fa-share-nodes"></i></button>
+        </div>
+        <div class="map-body">
+          <div class="map-title">Roadside Restaurant <span>| Escape Map</span></div>
+          <div class="map-specs">
+            <div class="map-spec"><i class="fa-brands fa-java"></i><span>Java 1.21.4 (Optifine / Sodium / Vanilla)</span></div>
+            <div class="map-spec"><i class="fa-solid fa-users"></i><span>1–4 игрока</span></div>
+          </div>
+          <p class="map-desc" id="rr-desc">Roadside Restaurant — хоррор-карта на 1–4 игроков. Вы попадаете в странный ресторан, где таинственный человек уводит вас в подвал. Проходит 20 лет… и начинается борьба за выживание. Присутствуют озвучка и кат-сцены.</p>
+          <div class="map-inner-tabs">
+            <button class="map-inner-tab active" onclick="switchInnerTab('rr','gallery',this)" id="rr-tab-gallery">Галерея</button>
+            <button class="map-inner-tab" onclick="switchInnerTab('rr','trailers',this)" id="rr-tab-trailers">Трейлеры</button>
+            <button class="map-inner-tab" onclick="switchInnerTab('rr','playthroughs',this)" id="rr-tab-playthroughs">Прохождения</button>
+            <button class="map-inner-tab" onclick="switchInnerTab('rr','downloads',this)" id="rr-tab-downloads">Скачать</button>
+          </div>
+          <div class="map-inner-panel active" id="rr-gallery">
+            <div class="map-gallery">
+              <div class="gallery-thumb" onclick="openLightbox('rutoy-papa-1.png')"><img src="rutoy-papa-1.png" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div>
+              <div class="gallery-thumb" onclick="openLightbox('rutoy-papa-2.png')"><img src="rutoy-papa-2.png" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div>
+              <div class="gallery-thumb" onclick="openLightbox('1_20.png')"><img src="1_20.png" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div>
+            </div>
+          </div>
+          <div class="map-inner-panel" id="rr-trailers">
+            <div class="video-grid"><div class="video-frame"><iframe src="https://www.youtube.com/embed/xzJgmqLTOKY" allowfullscreen loading="lazy"></iframe></div></div>
+          </div>
+          <div class="map-inner-panel" id="rr-playthroughs">
+            <p class="video-note" id="rr-video-note"><i class="fa-solid fa-circle-info" style="margin-right:6px;color:var(--teal)"></i>Прохождения сделаны сторонними авторами.</p>
+            <div class="video-grid">
+              <div class="video-frame"><iframe src="https://www.youtube.com/embed/EgIzpQ58or0" allowfullscreen loading="lazy"></iframe></div>
+              <div class="video-frame"><iframe src="https://www.youtube.com/embed/MEtyzii1z-A" allowfullscreen loading="lazy"></iframe></div>
+            </div>
+          </div>
+          <div class="map-inner-panel" id="rr-downloads">
+            <div class="downloads-list">
+              <div class="download-item"><span class="download-label">Beta 9.2 — Minecraft Inside</span><a class="btn-outline" href="https://minecraft-inside.ru/maps/185364-roadside-restaurant-escape-map.html" target="_blank"><i class="fa-solid fa-download"></i><span>Скачать</span></a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="maps-panel" id="maps-coming">
+      <div class="coming-card" data-soon="СКОРО">
+        <div class="coming-hero">
+          <div class="coming-hero-placeholder"><i class="fa-solid fa-image"></i><span style="font-size:.82rem;color:var(--text-dim)">Изображение скоро</span></div>
+        </div>
+        <div class="coming-body">
+          <div class="map-title">The Fiduciary</div>
+          <div class="map-specs">
+            <div class="map-spec"><i class="fa-brands fa-java"></i><span>Java 1.21.6 + Optifine (обязательно)</span></div>
+            <div class="map-spec"><i class="fa-solid fa-user"></i><span class="spec-solo">Одиночка</span></div>
+          </div>
+          <p class="map-desc" id="fid-desc">Погрузитесь в Гиблое место — развалины подземелий, где Долг и Световая Гниль стали единственной реальностью. Напряжённая сюжетная миссия с полной озвучкой, кат-сценами и двумя нелинейными концовками.</p>
+          <div class="map-actions">
+            <a class="btn-outline" href="https://www.youtube.com/watch?v=Zs1UQV5sLB4" target="_blank"><i class="fa-brands fa-youtube"></i><span id="btn-trailer">Трейлер</span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== INSTALL ===== -->
+<section class="page-section" id="page-install">
+  <div class="section-block">
+    <div class="section-title"><span id="install-title">Установка</span></div>
+    <p class="section-sub" id="install-sub">Выберите свой лаунчер или платформу</p>
+    <div class="install-os-tabs">
+      <button class="install-os-tab active" onclick="switchInstall('tl',this)"><i class="fa-solid fa-play"></i> TLauncher</button>
+      <button class="install-os-tab" onclick="switchInstall('win',this)"><i class="fa-brands fa-windows"></i> Windows</button>
+      <button class="install-os-tab" onclick="switchInstall('mac',this)"><i class="fa-brands fa-apple"></i> macOS</button>
+    </div>
+
+    <div class="install-panel active" id="install-tl">
+      <div class="install-steps">
+        <div class="install-step"><div class="install-step-num">1</div><div class="install-step-content"><div class="install-step-text" id="tl-step1">Откройте TLauncher и нажмите кнопку «Папка» в нижней панели.</div><div class="install-step-img" onclick="openLightbox('inst1-tl.png')"><img src="inst1-tl.png" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div></div></div>
+        <div class="install-step"><div class="install-step-num">2</div><div class="install-step-content"><div class="install-step-text" id="tl-step2">В открывшейся директории перейдите в папку <strong>saves</strong>.</div><div class="install-step-img" onclick="openLightbox('inst2-tl-of.png')"><img src="inst2-tl-of.png" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div></div></div>
+        <div class="install-step"><div class="install-step-num">3</div><div class="install-step-content"><div class="install-step-text" id="tl-step3">Распакуйте архив карты и переместите <strong>папку мира</strong> в <strong>saves</strong>.</div></div></div>
+        <div class="install-step"><div class="install-step-num">4</div><div class="install-step-content"><div class="install-step-text" id="tl-step4">Запустите игру, проверьте версию, выберите мир в «Одиночная игра».</div></div></div>
+      </div>
+    </div>
+
+    <div class="install-panel" id="install-win">
+      <div class="install-steps">
+        <div class="install-step"><div class="install-step-num">1</div><div class="install-step-content"><div class="install-step-text" id="win-step1">Нажмите <strong>Win + R</strong>, чтобы открыть «Выполнить».</div><div class="install-step-img" onclick="openLightbox('win-r.jpg')"><img src="win-r.jpg" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div></div></div>
+        <div class="install-step"><div class="install-step-num">2</div><div class="install-step-content"><div class="install-step-text" id="win-step2">Введите следующий путь и нажмите Enter:</div><div class="install-step-code">%APPDATA%\.minecraft</div></div></div>
+        <div class="install-step"><div class="install-step-num">3</div><div class="install-step-content"><div class="install-step-text" id="win-step3">Откройте папку <strong>saves</strong>.</div><div class="install-step-img" onclick="openLightbox('inst2-tl-of.png')"><img src="inst2-tl-of.png" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div></div></div>
+        <div class="install-step"><div class="install-step-num">4</div><div class="install-step-content"><div class="install-step-text" id="win-step4">Распакуйте архив карты и переместите <strong>папку мира</strong> в <strong>saves</strong>.</div></div></div>
+        <div class="install-step"><div class="install-step-num">5</div><div class="install-step-content"><div class="install-step-text" id="win-step5">Запустите игру и проверьте соответствие версий.</div></div></div>
+      </div>
+    </div>
+
+    <div class="install-panel" id="install-mac">
+      <div class="install-steps">
+        <div class="install-step"><div class="install-step-num">1</div><div class="install-step-content"><div class="install-step-text" id="mac-step1">В Finder нажмите <strong>Cmd + Shift + G</strong> для «Перейти к папке…».</div><div class="install-step-img" onclick="openLightbox('cmd-shift-g.jpg')"><img src="cmd-shift-g.jpg" alt="" onerror="this.style.display='none';this.parentNode.querySelector('i').style.display='block'"/><i class="fa-solid fa-image" style="display:none"></i></div></div></div>
+        <div class="install-step"><div class="install-step-num">2</div><div class="install-step-content"><div class="install-step-text" id="mac-step2">Введите следующий путь и подтвердите:</div><div class="install-step-code">~/Library/Application Support/Minecraft/</div></div></div>
+        <div class="install-step"><div class="install-step-num">3</div><div class="install-step-content"><div class="install-step-text" id="mac-step3">Откройте папку <strong>saves</strong>.</div></div></div>
+        <div class="install-step"><div class="install-step-num">4</div><div class="install-step-content"><div class="install-step-text" id="mac-step4">Распакуйте архив карты и переместите <strong>папку мира</strong> в <strong>saves</strong>.</div></div></div>
+        <div class="install-step"><div class="install-step-num">5</div><div class="install-step-content"><div class="install-step-text" id="mac-step5">Запустите игру и проверьте соответствие версий.</div></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SETTINGS ===== -->
+<section class="page-section" id="page-settings">
+  <div class="section-block">
+    <div class="section-title"><span id="settings-title">Настройки</span></div>
+    <p class="section-sub" id="settings-sub">Персонализация сайта</p>
+    <div class="settings-grid">
+      <div class="settings-card">
+        <div class="settings-card-title"><i class="fa-solid fa-language"></i><span id="set-lang-title">Язык</span></div>
+        <div class="setting-row"><span class="setting-label" id="set-lang-label">Язык интерфейса</span><select class="setting-select" id="lang-select" onchange="setLangFromSelect(this.value)"><option value="ru">Русский</option><option value="en">English</option></select></div>
+      </div>
+      <div class="settings-card">
+        <div class="settings-card-title"><i class="fa-solid fa-palette"></i><span id="set-theme-title">Тема</span></div>
+        <div class="setting-row">
+          <span class="setting-label" id="set-theme-label">Цветовая схема</span>
+          <div class="theme-swatches">
+            <div class="theme-swatch active" style="background:#00c8aa" onclick="setTheme('teal',this)"></div>
+            <div class="theme-swatch" style="background:#7b61ff" onclick="setTheme('purple',this)"></div>
+            <div class="theme-swatch" style="background:#ff6b6b" onclick="setTheme('red',this)"></div>
+            <div class="theme-swatch" style="background:#f0a500" onclick="setTheme('gold',this)"></div>
+          </div>
+        </div>
+      </div>
+      <div class="settings-card">
+        <div class="settings-card-title"><i class="fa-solid fa-wand-magic-sparkles"></i><span id="set-anim-title">Анимации</span></div>
+        <div class="setting-row"><span class="setting-label" id="set-anim-label">Эффекты и анимации</span><label class="toggle"><input type="checkbox" id="toggle-anim" checked onchange="toggleAnimations(this.checked)"/><div class="toggle-slider"></div></label></div>
+        <div class="setting-row"><span class="setting-label" id="set-glow-label">Неоновое свечение</span><label class="toggle"><input type="checkbox" id="toggle-glow" checked onchange="toggleGlow(this.checked)"/><div class="toggle-slider"></div></label></div>
+      </div>
+      <div class="settings-card">
+        <div class="settings-card-title"><i class="fa-solid fa-circle-info"></i><span id="set-about-title">О сайте</span></div>
+        <div class="setting-row"><span class="setting-label" id="set-ver-label">Версия</span><span style="font-size:.82rem;color:var(--teal)">BERZA 26 (03.03.2026)</span></div>
+        <div class="setting-row"><span class="setting-label" id="set-pp-label">Политика конф.</span><a href="pp.txt" target="_blank" class="btn-outline" style="padding:5px 12px;font-size:.78rem">Открыть</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== FAQ ===== -->
+<section class="page-section" id="page-faq">
+  <div class="section-block">
+    <div class="section-title"><span>FAQ</span></div>
+    <p class="section-sub" id="faq-sub">Часто задаваемые вопросы</p>
+    <div class="faq-list" id="faq-list"></div>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer id="site-footer">
+  <div class="footer-top">
+    <div class="footer-brand">
+      <div class="footer-logo">
+        <div class="footer-logo-img"><img src="brz.png" alt="Bereza" onerror="this.parentNode.innerHTML='<i class=\'fa-solid fa-leaf\'></i>'"/></div>
+        <span>Bereza Studio</span>
+      </div>
+      <p id="footer-desc">Небольшая команда мап‑мейкеров, создающих атмосферные карты для Minecraft.</p>
+    </div>
+    <div class="footer-contact">
+      <h4 id="footer-contacts-title">Контакты</h4>
+      <div class="footer-contact-item"><i class="fa-solid fa-location-dot"></i><span>220030 Минск, улица Ленина, 28, Беларусь</span></div>
+      <div class="footer-contact-item"><i class="fa-solid fa-phone"></i><span>РФ/РБ: <a href="tel:+79682160351">+7 (968) 216-03-51</a></span></div>
+      <div class="footer-contact-item"><i class="fa-solid fa-phone"></i><span>ЕС: <a href="tel:+4915111057257">+49 151 110 57 257</a></span></div>
+      <div class="footer-contact-item"><i class="fa-solid fa-envelope"></i><a href="mailto:hvess00@gmail.com">hvess00@gmail.com</a></div>
+      <div class="footer-contact-item" style="margin-top:4px;font-size:.76rem;color:var(--text-dim);"><i class="fa-solid fa-headset"></i><span id="footer-dev-note">Со-разработчик / FAQ</span></div>
+    </div>
+    <div class="footer-contact">
+      <h4 id="footer-nav-title">Навигация</h4>
+      <div class="footer-contact-item" style="cursor:pointer" onclick="navTo('home')"><i class="fa-solid fa-house"></i><span id="fnav-home">Главная</span></div>
+      <div class="footer-contact-item" style="cursor:pointer" onclick="navTo('maps')"><i class="fa-solid fa-map"></i><span id="fnav-maps">Карты</span></div>
+      <div class="footer-contact-item" style="cursor:pointer" onclick="navTo('install')"><i class="fa-solid fa-download"></i><span id="fnav-install">Установка</span></div>
+      <div class="footer-contact-item" style="cursor:pointer" onclick="navTo('faq')"><i class="fa-solid fa-circle-question"></i><span id="fnav-faq">FAQ</span></div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span class="footer-copy" id="footer-copy">© Bereza Studio — все права защищены. 2026</span>
+    <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+      <a class="footer-wwf" href="https://www.wwf.de/spenden-helfen/allgemeine-spende" target="_blank">
+        <span class="footer-btn-img-wrap">
+          <img src="wwf.png" alt="WWF" class="footer-btn-img" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'"/>
+          <i class="fa-solid fa-paw" style="display:none"></i>
+        </span>
+        <span id="footer-wwf-text">Поддержать WWF</span>
+      </a>
+      <a class="footer-donate" href="https://www.donationalerts.com/r/bereza_studio" target="_blank">
+        <span class="footer-btn-img-wrap">
+          <img src="images.png" alt="Donate" class="footer-btn-img" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'"/>
+          <i class="fa-solid fa-heart" style="display:none"></i>
+        </span>
+        <span id="footer-donate-text">Донатик &lt;3</span>
+      </a>
+    </div>
+  </div>
+</footer>
+
+<!-- ===== LIGHTBOX ===== -->
+<div id="lightbox" onclick="closeLightbox()">
+  <div id="lightbox-close" onclick="closeLightbox()"><i class="fa-solid fa-xmark"></i></div>
+  <img id="lightbox-img" src="" alt=""/>
+</div>
+
+<!-- ===== TOAST ===== -->
+<div id="toast"></div>
+
+<script src="script.js"></script>
+</body>
+</html>

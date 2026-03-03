@@ -1,0 +1,600 @@
+Privacy Policy for Bereza Studio - [EN]
+Last Updated: [18/01/2026]
+
+1. Data Controller
+The personal data collected through the website Bereza Studio, located at https://bereza.netlify.app, is processed by the data controller:
+
+Sole Proprietor (or Individual Entrepreneur) Aitdunitov Pavel Vasilievich
+
+Contact email for privacy inquiries: hvess00@gmail.com
+
+2. Personal Data We Collect and Purposes of Processing
+We collect only the data necessary for analytics and improving our website's performance. We DO NOT collect names, email addresses, phone numbers, or other directly identifying information unless you voluntarily provide it via a contact form (which is not currently available on the site).
+
+Automatically, through analytics tools, we may collect the following non-personally identifiable information:
+
+Technical Data: IP address (which may be anonymized), browser type and version, operating system, screen resolution.
+
+Activity Data: Visit time, session duration, pages viewed, referral source (search engine, social media), clicks on website elements.
+
+Purpose of Processing: Analyzing user behavior on the site, identifying technical issues, evaluating content effectiveness, and improving the user experience.
+
+3. Legal Basis for Processing
+The processing of the aforementioned anonymized data is based on our legitimate interest (Art. 6(1)(f) GDPR) in analyzing the performance and developing our website, provided this does not override your fundamental rights and freedoms.
+
+4. Cookies and Similar Technologies
+We use Cookies and similar technologies (local storage, analytics pixels) strictly for analytical purposes.
+
+Types of Cookies: Strictly necessary (for basic site functionality) and analytics/performance cookies.
+
+Analytics Service: We use Google Analytics. Data collected by Google may be processed on servers outside your country of residence. You can opt-out of Google Analytics data collection by installing the browser add-on, available here: https://tools.google.com/dlpage/gaoptout.
+
+Upon your first visit to the site, you will see a cookie consent notice. By continuing to use the site, you consent to our use of cookies as described.
+
+5. Data Sharing and Third Parties
+We do not sell, rent, or trade your data. We share data only with essential service providers under strict contracts:
+
+Google LLC: As our analytics provider, to process anonymized data about website usage. Google has its own Privacy Policy, which we recommend you review.
+
+Netlify Inc.: As our hosting provider. They may have access to server logs containing IP addresses for operational and security purposes.
+
+We may disclose information if required by law or to protect our legal rights.
+
+6. Data Storage and Security
+
+Storage Period: We retain the collected analytics data for a period of 6 (six) months. After this period, the data is automatically deleted or anonymized.
+
+Security Measures: We implement reasonable technical and organizational measures to protect data, including the use of SSL/TLS encryption (HTTPS) for data transmission. Access to any data is restricted to authorized personnel only.
+
+7. International Data Transfers
+As we use Google Analytics, which operates globally, data may be transferred to and processed in the United States or other countries. Google ensures an adequate level of data protection through standard contractual clauses (SCCs) approved by European authorities.
+
+8. Your Rights
+Depending on your location, you may have the following rights regarding your personal data:
+
+Right of Access: To request information about what data we have.
+
+Right to Rectification: To correct inaccurate data.
+
+Right to Erasure ("Right to be Forgotten"): To request deletion of your data.
+
+Right to Restrict Processing: To temporarily halt the processing of your data.
+
+Right to Object: To object to processing based on legitimate interest.
+
+Right to Data Portability: To receive your data in a structured format.
+
+Right to Withdraw Consent: If processing was based on consent, you can withdraw it at any time.
+
+To exercise any of these rights, please contact us at hvess00@gmail.com. We will respond within one month.
+
+9. Children's Privacy
+Our website is not intended for individuals under the age of 14. We do not knowingly collect personal data from children. If you are a parent or guardian and believe your child has provided us with data, please contact us, and we will delete it.
+
+10. Changes to This Privacy Policy
+We may update this Privacy Policy periodically. We will notify you of any material changes by posting the new version on this page with an updated "Last Updated" date. We encourage you to review this page occasionally.
+
+11. Contact Us
+For any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at:
+Bereza Studio
+Email: hvess00@gmail.com
+
+
+
+
+
+
+Datenschutzerklärung für Bereza Studio - [DE]
+Letzte Aktualisierung: [18.01.2026]
+
+1. Verantwortlicher für die Datenverarbeitung
+Die über die Website Bereza Studio (https://bereza.netlify.app) erhobenen personenbezogenen Daten werden vom Verantwortlichen für die Datenverarbeitung verarbeitet:
+
+Einzelunternehmer Pavel Vasilievich Aitdunitov
+
+Kontakt-E-Mail für Datenschutzanfragen: hvess00@gmail.com
+
+2. Erhebung personenbezogener Daten und Zweck der Verarbeitung
+Wir erheben nur die für Analysen und die Verbesserung der Website-Performance notwendigen Daten. Wir erheben KEINE Namen, E-Mail-Adressen, Telefonnummern oder andere direkt identifizierende Informationen, es sei denn, Sie übermitteln diese freiwillig über ein Kontaktformular (das derzeit nicht auf der Website verfügbar ist).
+
+Automatisch können wir mithilfe von Analysetools die folgenden nicht personenbezogenen Daten erfassen:
+
+Technische Daten: IP-Adresse (die anonymisiert werden kann), Browsertyp und -version, Betriebssystem, Bildschirmauflösung.
+
+Aktivitätsdaten: Besuchszeitpunkt, Sitzungsdauer, aufgerufene Seiten, Herkunftsquelle (Suchmaschine, soziale Medien), Klicks auf Website-Elemente.
+
+Zweck der Verarbeitung: Analyse des Nutzerverhaltens auf der Website, Identifizierung technischer Probleme, Bewertung der Effektivität von Inhalten und Verbesserung der Nutzererfahrung.
+
+3. Rechtsgrundlage für die Verarbeitung
+Die Verarbeitung der oben genannten anonymisierten Daten erfolgt auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) an der Analyse der Leistung und Weiterentwicklung unserer Website, sofern Ihre Grundrechte und -freiheiten dadurch nicht beeinträchtigt werden.
+
+4. Cookies und ähnliche Technologien
+Wir verwenden Cookies und ähnliche Technologien (Local Storage, Analyse-Pixel) ausschließlich zu Analysezwecken.
+
+Arten von Cookies: Unbedingt erforderliche Cookies (für die grundlegende Funktionalität der Website) und Analyse-/Performance-Cookies.
+
+Analysedienst: Wir verwenden Google Analytics. Die von Google erhobenen Daten können auf Servern außerhalb Ihres Wohnsitzlandes verarbeitet werden. Sie können die Datenerfassung durch Google Analytics deaktivieren, indem Sie das Browser-Add-on installieren, das Sie hier finden: https://tools.google.com/dlpage/gaoptout.
+
+Bei Ihrem ersten Besuch auf der Website wird Ihnen ein Cookie-Hinweis angezeigt. Durch die weitere Nutzung der Website erklären Sie sich mit der Verwendung von Cookies gemäß dieser Beschreibung einverstanden.
+
+5. Datenweitergabe und Dritte
+Wir verkaufen, vermieten oder tauschen Ihre Daten nicht. Wir geben Daten nur an wichtige Dienstleister im Rahmen strenger Verträge weiter:
+
+Google LLC: Als unser Analyseanbieter verarbeiten wir anonymisierte Daten zur Website-Nutzung. Google hat eigene Datenschutzbestimmungen, die wir Ihnen zur Kenntnisnahme empfehlen.
+
+Netlify Inc.: Als unser Hosting-Anbieter. Netlify hat möglicherweise Zugriff auf Serverprotokolle mit IP-Adressen zu Betriebs- und Sicherheitszwecken.
+
+Wir können Informationen offenlegen, wenn dies gesetzlich vorgeschrieben ist oder zum Schutz unserer Rechte erforderlich ist.
+
+6. Datenspeicherung und -sicherheit
+
+Speicherdauer: Wir speichern die erhobenen Analysedaten für einen Zeitraum von 6 (sechs) Monaten. Nach Ablauf dieser Frist werden die Daten automatisch gelöscht oder anonymisiert.
+
+Sicherheitsmaßnahmen: Wir setzen angemessene technische und organisatorische Maßnahmen zum Schutz Ihrer Daten ein, einschließlich der Verwendung von SSL/TLS-Verschlüsselung (HTTPS) für die Datenübertragung. Der Zugriff auf Ihre Daten ist ausschließlich autorisiertem Personal vorbehalten.
+
+7. Internationale Datenübermittlung
+Da wir Google Analytics nutzen, das weltweit tätig ist, können Daten in die USA oder andere Länder übermittelt und dort verarbeitet werden. Google gewährleistet durch von europäischen Behörden genehmigte Standardvertragsklauseln (SCCs) ein angemessenes Datenschutzniveau.
+
+8. Ihre Rechte
+Abhängig von Ihrem Standort haben Sie möglicherweise folgende Rechte bezüglich Ihrer personenbezogenen Daten:
+
+Auskunftsrecht: Sie können Auskunft darüber verlangen, welche Daten wir über Sie gespeichert haben.
+
+Recht auf Berichtigung: Sie können unrichtige Daten berichtigen lassen.
+
+Recht auf Löschung („Recht auf Vergessenwerden“): Sie können die Löschung Ihrer Daten verlangen.
+
+Recht auf Einschränkung der Verarbeitung: Sie können die Verarbeitung Ihrer Daten vorübergehend einschränken lassen.
+
+Widerspruchsrecht: Sie können der Verarbeitung Ihrer Daten aufgrund berechtigter Interessen widersprechen.
+
+Recht auf Datenübertragbarkeit: Sie können Ihre Daten in einem strukturierten Format erhalten.
+
+Recht auf Widerruf der Einwilligung: Wenn die Verarbeitung auf Ihrer Einwilligung beruht, können Sie diese jederzeit widerrufen.
+
+Um eines dieser Rechte auszuüben, kontaktieren Sie uns bitte unter hvess00@gmail.com. Wir werden Ihnen innerhalb eines Monats antworten.
+
+9. Datenschutz für Kinder
+Unsere Website ist nicht für Personen unter 14 Jahren bestimmt. Wir erheben wissentlich keine personenbezogenen Daten von Kindern. Sollten Sie als Elternteil oder Erziehungsberechtigter der Ansicht sein, dass Ihr Kind uns Daten übermittelt hat, kontaktieren Sie uns bitte. Wir werden diese Daten dann löschen.
+
+10. Änderungen dieser Datenschutzrichtlinie
+Wir können diese Datenschutzrichtlinie regelmäßig aktualisieren. Über wesentliche Änderungen werden wir Sie informieren, indem wir die neue Version mit dem aktualisierten Datum der letzten Aktualisierung auf dieser Seite veröffentlichen. Wir empfehlen Ihnen, diese Seite regelmäßig zu besuchen.
+
+11. Kontakt
+Bei Fragen, Anliegen oder Anfragen bezüglich dieser Datenschutzrichtlinie oder Ihrer Daten kontaktieren Sie uns bitte unter:
+Bereza Studio
+E-Mail: hvess00@gmail.com
+
+
+
+Bereza Studio プライバシーポリシー - [JP]
+最終更新日: [2026年1月18日]
+
+1. データ管理者
+Bereza Studio ウェブサイト（https://bereza.netlify.app）を通じて収集された個人データは、以下のデータ管理者によって処理されます。
+
+個人事業主（または個人起業家）: Aitdunitov Pavel Vasilievich
+
+プライバシーに関するお問い合わせ先: hvess00@gmail.com
+
+2. 当社が収集する個人データと処理目的
+当社は、ウェブサイトの分析とパフォーマンス向上に必要なデータのみを収集します。お問い合わせフォーム（現在、当サイトではご利用いただけません）を通じてお客様が自発的に提供しない限り、氏名、メールアドレス、電話番号、その他の個人を特定できる情報は収集しません。
+
+当社は、分析ツールを通じて、以下の個人を特定しない情報を自動的に収集する場合があります。
+
+技術データ: IPアドレス（匿名化される場合があります）、ブラウザの種類とバージョン、オペレーティングシステム、画面解像度
+
+アクティビティデータ：訪問時間、セッション継続時間、閲覧ページ、参照元（検索エンジン、ソーシャルメディア）、ウェブサイト要素のクリック数。
+
+処理の目的：サイトにおけるユーザー行動の分析、技術的問題の特定、コンテンツの有効性評価、ユーザーエクスペリエンスの向上。
+
+3. 処理の法的根拠
+上記の匿名データの処理は、ウェブサイトのパフォーマンス分析および開発に対する当社の正当な利益（GDPR第6条(1)(f)）に基づきますが、お客様の基本的な権利および自由を侵害するものではありません。
+
+4. Cookieおよび類似のテクノロジー
+当社は、Cookieおよび類似のテクノロジー（ローカルストレージ、アナリティクスピクセル）を分析目的にのみ使用します。
+
+Cookieの種類：必須Cookie（サイトの基本機能に必要）およびアナリティクス/パフォーマンスCookie。
+
+アナリティクスサービス：当社はGoogle Analyticsを使用しています。Google Analyticsによって収集されたデータは、お客様の居住国外のサーバーで処理される場合があります。お客様は、ブラウザアドオンをインストールすることで、Google Analyticsによるデータ収集をオプトアウトできます。アドオンは、https://tools.google.com/dlpage/gaoptoutから入手できます。
+
+当サイトに初めてアクセスされた際に、Cookieの使用に関する同意通知が表示されます。引き続き当サイトをご利用いただくことで、お客様は記載されている通り、Cookieの使用に同意したものとみなされます。
+
+5. データ共有および第三者
+当社は、お客様のデータを販売、貸与、または取引することはありません。当社は、厳格な契約に基づき、必要不可欠なサービスプロバイダーとのみデータを共有します。
+
+Google LLC：当社の分析プロバイダーとして、ウェブサイトの利用状況に関する匿名化されたデータを処理します。Googleは独自のプライバシーポリシーを定めていますので、ご確認いただくことをお勧めします。
+
+Netlify Inc.：当社のホスティングプロバイダーとして。Netlifyは、運用およびセキュリティ上の目的で、IPアドレスを含むサーバーログにアクセスする場合があります。
+
+当社は、法律で義務付けられている場合、または当社の法的権利を保護するために、情報を開示する場合があります。
+
+6. データの保管とセキュリティ
+
+保管期間：収集した分析データは6ヶ月間保管します。この期間を過ぎると、データは自動的に削除または匿名化されます。
+
+セキュリティ対策：当社は、データ転送にSSL/TLS暗号化（HTTPS）を使用するなど、データ保護のために合理的な技術的および組織的な対策を実施しています。データへのアクセスは、権限のある担当者のみに制限されています。
+
+7. 国際的なデータ転送
+当社は、世界中で運用されているGoogle Analyticsを使用しているため、データが米国またはその他の国に転送され、処理される場合があります。Googleは、欧州当局が承認した標準契約条項（SCC）を通じて、適切なレベルのデータ保護を確保しています。
+
+8. お客様の権利
+お客様の所在地に応じて、個人データに関して以下の権利を有する場合があります。
+
+アクセス権：当社が保有するデータに関する情報を要求する権利。
+
+訂正権：不正確なデータを訂正する権利。
+
+消去権（「忘れられる権利」）：お客様のデータの削除を要求する権利。
+
+処理制限権：お客様のデータの処理を一時的に停止する権利。
+
+異議申し立て権：正当な利益に基づく処理に異議を申し立てる権利。
+
+データポータビリティ権：構造化された形式でお客様のデータを受け取る権利。
+
+同意撤回権：処理が同意に基づいて行われた場合、お客様はいつでも同意を撤回することができます。
+
+これらの権利を行使するには、hvess00@gmail.com までご連絡ください。1ヶ月以内にご返信いたします。
+
+9. お子様のプライバシー
+当社のウェブサイトは14歳未満の方を対象としておりません。当社は、お子様から故意に個人データを収集することはありません。お子様が当社にデータを提供したと思われる親または保護者の方は、当社までご連絡ください。当社は、そのデータを削除します。
+
+10. 本プライバシーポリシーの変更
+当社は、本プライバシーポリシーを定期的に更新する場合があります。重要な変更があった場合は、このページに新しいバージョンを掲載し、「最終更新日」を更新することでお知らせします。定期的にこのページをご確認ください。
+
+11. お問い合わせ
+本プライバシーポリシーまたはお客様のデータに関するご質問、ご懸念事項、ご要望は、下記までご連絡ください。
+Bereza Studio
+メールアドレス: hvess00@gmail.com
+
+
+
+Политика конфиденциальности Bereza Studio - [RU]
+Последнее обновление: [18.01.2026]
+
+1. Контролер данных
+Персональные данные, собранные через веб-сайт Bereza Studio, расположенный по адресу https://bereza.netlify.app, обрабатываются контролером данных:
+
+Индивидуальный предприниматель (или Индивидуальный предприниматель) Аитдунитов Павел Васильевич
+
+Контактный адрес электронной почты для вопросов конфиденциальности: hvess00@gmail.com
+
+2. Собираемые нами персональные данные и цели обработки
+Мы собираем только данные, необходимые для аналитики и улучшения работы нашего веб-сайта. Мы НЕ собираем имена, адреса электронной почты, номера телефонов или другую информацию, позволяющую идентифицировать личность, если вы добровольно не предоставите ее через контактную форму (которая в настоящее время недоступна на сайте).
+
+Автоматически, с помощью аналитических инструментов, мы можем собирать следующую информацию, не позволяющую идентифицировать личность:
+
+Технические данные: IP-адрес (который может быть анонимизирован), тип и версия браузера, операционная система, разрешение экрана.
+
+Данные об активности: время посещения, продолжительность сессии, просмотренные страницы, источник перехода (поисковая система, социальные сети), клики по элементам веб-сайта.
+
+Цель обработки: анализ поведения пользователей на сайте, выявление технических проблем, оценка эффективности контента и улучшение пользовательского опыта.
+
+3. Правовая основа обработки
+Обработка вышеупомянутых анонимизированных данных основана на нашем законном интересе (ст. 6(1)(f) GDPR) в анализе производительности и развитии нашего веб-сайта, при условии, что это не противоречит вашим основным правам и свободам.
+
+4. Файлы cookie и аналогичные технологии
+Мы используем файлы cookie и аналогичные технологии (локальное хранилище, аналитические пиксели) исключительно в аналитических целях.
+
+Типы файлов cookie: строго необходимые (для базовой функциональности сайта) и аналитические/функциональные файлы cookie.
+
+Аналитический сервис: мы используем Google Analytics. Данные, собранные Google, могут обрабатываться на серверах за пределами вашей страны проживания. Вы можете отказаться от сбора данных Google Analytics, установив расширение для браузера, доступное здесь: https://tools.google.com/dlpage/gaoptout.
+
+При первом посещении сайта вы увидите уведомление о согласии на использование файлов cookie. Продолжая использовать сайт, вы соглашаетесь с использованием нами файлов cookie, как описано выше.
+
+5. Обмен данными и третьи стороны
+Мы не продаем, не сдаем в аренду и не обмениваемся вашими данными. Мы передаем данные только основным поставщикам услуг в рамках строгих договоров:
+
+Google LLC: как наш поставщик аналитических услуг, для обработки анонимизированных данных об использовании веб-сайта. У Google есть собственная политика конфиденциальности, с которой мы рекомендуем вам ознакомиться.
+
+Netlify Inc.: как наш поставщик хостинга. Они могут иметь доступ к журналам сервера, содержащим IP-адреса, в операционных целях и целях безопасности.
+
+Мы можем раскрывать информацию, если это требуется по закону или для защиты наших законных прав.
+
+6. Хранение и безопасность данных
+
+Срок хранения: Мы храним собранные аналитические данные в течение 6 (шести) месяцев. По истечении этого периода данные автоматически удаляются или анонимизируются.
+
+Меры безопасности: Мы применяем разумные технические и организационные меры для защиты данных, включая использование шифрования SSL/TLS (HTTPS) для передачи данных. Доступ к любым данным ограничен только уполномоченным персоналом.
+
+7. Международная передача данных
+Поскольку мы используем Google Analytics, работающий по всему миру, данные могут передаваться и обрабатываться в Соединенных Штатах или других странах. Google обеспечивает надлежащий уровень защиты данных посредством стандартных договорных положений (SCC), утвержденных европейскими органами власти.
+
+8. Ваши права
+В зависимости от вашего местоположения, вы можете иметь следующие права в отношении ваших персональных данных:
+
+Право доступа: Запрос информации о том, какие данные у нас есть.
+
+Право на исправление: Исправление неточных данных.
+
+Право на удаление («Право быть забытым»): Запрос на удаление ваших данных.
+
+Право на ограничение обработки: Временная приостановка обработки ваших данных.
+
+Право на возражение: право возражать против обработки данных на основании законного интереса.
+
+Право на переносимость данных: право получать ваши данные в структурированном формате.
+
+Право на отзыв согласия: если обработка данных осуществлялась на основании согласия, вы можете отозвать его в любое время.
+
+Для осуществления любого из этих прав, пожалуйста, свяжитесь с нами по адресу hvess00@gmail.com. Мы ответим в течение одного месяца.
+
+9. Конфиденциальность детей
+Наш веб-сайт не предназначен для лиц младше 14 лет. Мы сознательно не собираем персональные данных детей. Если вы являетесь родителем или опекуном и считаете, что ваш ребенок предоставил нам данные, пожалуйста, свяжитесь с нами, и мы удалим их.
+
+10. Изменения в настоящей Политике конфиденциальности
+Мы можем периодически обновлять настоящую Политику конфиденциальности. Мы будем уведомлять вас о любых существенных изменениях, размещая новую версию на этой странице с обновленной датой «Последнее обновление». Мы рекомендуем вам периодически просматривать эту страницу.
+
+11. Свяжитесь с нами
+По любым вопросам, проблемам или запросам, касающимся данной Политики конфиденциальности или ваших данных, пожалуйста, свяжитесь с нами по адресу:
+Bereza Studio
+Электронная почта: hvess00@gmail.com
+
+
+
+Bereza Studio 隐私政策 - [CHN]
+
+最后更新：[2026年1月18日]
+
+1. 数据控制者
+
+通过位于 https://bereza.netlify.app 的 Bereza Studio 网站收集的个人数据由数据控制者处理：
+
+独资经营者（或个体企业家）Aitdunitov Pavel Vasilievich
+
+隐私咨询邮箱：hvess00@gmail.com
+
+2. 我们收集的个人数据及其处理目的
+
+我们仅收集用于分析和改进网站性能的必要数据。除非您通过联系表单（目前网站上未提供）自愿提供，否则我们不会收集姓名、电子邮件地址、电话号码或其他直接身份识别信息。
+
+我们可能会通过分析工具自动收集以下非个人身份识别信息：
+
+技术数据：IP 地址（可能已匿名化）、浏览器类型和版本、操作系统、屏幕分辨率。
+
+活动数据：访问时间、会话时长、浏览页面、引荐来源（搜索引擎、社交媒体）、网站元素点击次数。
+
+处理目的：分析用户在网站上的行为，识别技术问题，评估内容效果，并改善用户体验。
+
+3. 处理的法律依据
+
+处理上述匿名数据基于我们的合法利益（GDPR 第 6 条第 1 款 (f) 项），即分析网站性能并进行改进，前提是这不会侵犯您的基本权利和自由。
+
+4. Cookie 和类似技术
+
+我们严格出于分析目的使用 Cookie 和类似技术（本地存储、分析像素）。
+
+Cookie 类型：绝对必要的 Cookie（用于网站基本功能）和分析/性能 Cookie。
+
+分析服务：我们使用 Google Analytics。Google 收集的数据可能会在您居住国以外的服务器上进行处理。您可以通过安装浏览器插件选择退出 Google Analytics 数据收集，该插件可在此处获取：https://tools.google.com/dlpage/gaoptout。
+
+首次访问本网站时，您会看到 Cookie 同意声明。继续使用本网站即表示您同意我们按照所述方式使用 Cookie。
+
+5. 数据共享和第三方
+
+我们不会出售、出租或交易您的数据。我们仅在严格的合同约束下与必要的服务提供商共享数据：
+
+Google LLC：作为我们的分析服务提供商，用于处理关于网站使用情况的匿名数据。Google 有其自身的隐私政策，我们建议您查阅。
+
+Netlify Inc.：作为我们的托管服务提供商。出于运营和安全目的，他们可能需要访问包含 IP 地址的服务器日志。
+
+如果法律要求或为了保护我们的合法权益，我们可能会披露信息。
+
+6. 数据存储和安全
+
+存储期限：我们将收集的分析数据保留 6 个月。此期限过后，数据将自动删除或匿名化。
+
+安全措施：我们采取合理的技术和组织措施来保护数据，包括使用 SSL/TLS 加密 (HTTPS) 进行数据传输。只有授权人员才能访问任何数据。 7. 国际数据传输
+
+由于我们使用全球运营的 Google Analytics，数据可能会被传输到美国或其他国家/地区并在那里进行处理。Google 通过经欧洲当局批准的标准合同条款 (SCC) 确保数据得到充分保护。
+
+8. 您的权利
+
+根据您所在地区，您可能拥有以下关于您个人数据的权利：
+
+访问权：请求了解我们拥有哪些关于您的数据。
+
+更正权：更正不准确的数据。
+
+删除权（“被遗忘权”）：请求删除您的数据。
+
+限制处理权：暂时停止处理您的数据。
+
+反对权：反对基于合法利益的处理。
+
+数据可移植权：以结构化格式接收您的数据。
+
+撤回同意权：如果处理基于您的同意，您可以随时撤回该同意。
+
+如需行使上述任何权利，请联系我们：hvess00@gmail.com。我们将在一个月内回复。
+
+9. 儿童隐私
+
+我们的网站不面向 14 岁以下人士。我们不会故意收集儿童的个人数据。如果您是家长或监护人，并且认为您的孩子已向我们提供数据，请联系我们，我们将删除这些数据。
+
+10. 隐私政策的变更
+
+我们可能会定期更新本隐私政策。如有任何重大变更，我们将在本页面发布新版本并更新“最后更新”日期，以此通知您。我们建议您定期查看此页面。
+
+11. 联系我们
+
+如有任何关于本隐私政策或您的数据的问题、疑虑或请求，请通过以下方式联系我们：
+
+Bereza Studio
+
+邮箱：hvess00@gmail.com
+
+
+
+Politique de confidentialité de Bereza Studio - [FR]
+
+Dernière mise à jour : [18/01/2026]
+
+1. Responsable du traitement des données
+
+Les données personnelles collectées via le site web Bereza Studio, accessible à l'adresse https://bereza.netlify.app, sont traitées par le responsable du traitement des données :
+
+Entrepreneur individuel (ou propriétaire unique) Aitdunitov Pavel Vasilievich
+
+Adresse électronique pour toute question relative à la confidentialité : hvess00@gmail.com
+
+2. Données personnelles collectées et finalités du traitement
+
+Nous collectons uniquement les données nécessaires à l'analyse et à l'amélioration des performances de notre site web. Nous ne collectons PAS les noms, adresses électroniques, numéros de téléphone ni aucune autre information permettant de vous identifier directement, sauf si vous nous les fournissez volontairement via un formulaire de contact (actuellement indisponible sur le site).
+
+Automatiquement, grâce à des outils d'analyse, nous pouvons collecter les informations non personnelles suivantes :
+
+Données techniques : Adresse IP (qui peut être anonymisée), type et version du navigateur, système d'exploitation, résolution d'écran.
+
+Données d'activité : Heure de visite, durée de la session, pages consultées, source de provenance (moteur de recherche, réseaux sociaux), clics sur les éléments du site web.
+
+Finalité du traitement : Analyser le comportement des utilisateurs sur le site, identifier les problèmes techniques, évaluer l'efficacité du contenu et améliorer l'expérience utilisateur.
+
+3. Base juridique du traitement
+Le traitement des données anonymisées susmentionnées repose sur notre intérêt légitime (art. 6, paragraphe 1, point f), du RGPD) à analyser les performances et à développer notre site web, sous réserve du respect de vos droits et libertés fondamentaux.
+
+4. Cookies et technologies similaires
+Nous utilisons des cookies et des technologies similaires (stockage local, pixels espions) à des fins strictement analytiques.
+
+Types de cookies : Cookies strictement nécessaires (pour le fonctionnement de base du site) et cookies analytiques/de performance.
+
+Service d'analyse : Nous utilisons Google Analytics. Les données collectées par Google peuvent être traitées sur des serveurs situés en dehors de votre pays de résidence. Vous pouvez désactiver la collecte de données par Google Analytics en installant l'extension de navigateur disponible ici : https://tools.google.com/dlpage/gaoptout.
+
+Lors de votre première visite sur le site, une notification relative aux cookies s'affichera. En continuant à utiliser le site, vous consentez à l'utilisation de cookies conformément à la description ci-dessus.
+
+5. Partage des données et tiers
+
+Nous ne vendons, ne louons ni n'échangeons vos données. Nous les partageons uniquement avec les prestataires de services essentiels, dans le cadre de contrats stricts :
+
+Google LLC : En tant que fournisseur d'analyse, nous traitons des données anonymisées relatives à l'utilisation du site web. Google dispose de sa propre politique de confidentialité, que nous vous recommandons de consulter.
+
+Netlify Inc. : En tant que fournisseur d'hébergement, nous pouvons avoir accès aux journaux du serveur contenant les adresses IP à des fins opérationnelles et de sécurité.
+
+Nous pouvons divulguer des informations si la loi l'exige ou pour protéger nos droits.
+
+6. Stockage et sécurité des données
+
+Durée de conservation : Nous conservons les données analytiques collectées pendant six (6) mois. Passé ce délai, les données sont automatiquement supprimées ou anonymisées.
+
+Mesures de sécurité : Nous mettons en œuvre des mesures techniques et organisationnelles raisonnables pour protéger les données, notamment le chiffrement SSL/TLS (HTTPS) pour la transmission des données. L'accès aux données est strictement réservé au personnel autorisé.
+
+7. Transferts internationaux de données
+Comme nous utilisons Google Analytics, qui opère à l'échelle mondiale, vos données peuvent être transférées et traitées aux États-Unis ou dans d'autres pays. Google garantit un niveau de protection des données adéquat grâce à des clauses contractuelles types (CCT) approuvées par les autorités européennes.
+
+8. Vos droits
+Selon votre lieu de résidence, vous pouvez disposer des droits suivants concernant vos données personnelles :
+
+Droit d'accès : Demander des informations sur les données que nous détenons vous concernant.
+
+Droit de rectification : Corriger les données inexactes.
+
+Droit à l'effacement (« Droit à l'oubli ») : Demander la suppression de vos données.
+
+Droit à la limitation du traitement : Suspendre temporairement le traitement de vos données.
+
+Droit d'opposition : Vous opposer au traitement fondé sur un intérêt légitime.
+
+Droit à la portabilité des données : Recevoir vos données dans un format structuré.
+
+Droit de retirer votre consentement : Si le traitement était fondé sur votre consentement, vous pouvez le retirer à tout moment.
+
+Pour exercer l'un de ces droits, veuillez nous contacter à l'adresse hvess00@gmail.com. Nous vous répondrons dans un délai d'un mois.
+
+9. Protection des données des enfants
+
+Notre site web n'est pas destiné aux personnes de moins de 14 ans. Nous ne collectons pas sciemment de données personnelles auprès d'enfants. Si vous êtes un parent ou un tuteur et pensez que votre enfant nous a communiqué des données, veuillez nous contacter afin que nous les supprimions.
+
+10. Modifications de la présente politique de confidentialité
+
+Nous pouvons être amenés à mettre à jour la présente politique de confidentialité périodiquement. Nous vous informerons de toute modification importante en publiant la nouvelle version sur cette page, accompagnée d'une date de « Dernière mise à jour » actualisée. Nous vous invitons à consulter cette page régulièrement.
+
+11. Nous contacter
+Pour toute question, préoccupation ou demande concernant la présente politique de confidentialité ou vos données, veuillez nous contacter à l'adresse suivante :
+
+Bereza Studio
+
+Adresse e-mail : hvess00@gmail.com
+
+
+
+보에리사 스튜디오 개인정보처리방침  -  [KR]
+최종 수정일: [2026년 1월 18일]
+
+1. 데이터 관리자
+https://bereza.netlify.app에 위치한 보에리사 스튜디오 웹사이트를 통해 수집된 개인정보는 다음 데이터 관리자가 처리합니다.
+
+개인사업자(또는 개인 사업자): 아이투니토프 파벨 바실리에비치
+
+개인정보 관련 문의 이메일: hvess00@gmail.com
+
+2. 수집하는 개인정보 및 처리 목적
+당사는 웹사이트 분석 및 성능 개선에 필요한 데이터만 수집합니다. 당사는 귀하가 연락처 양식(현재 사이트에는 제공되지 않음)을 통해 자발적으로 제공하지 않는 한, 이름, 이메일 주소, 전화번호 또는 기타 직접 식별 가능한 정보를 수집하지 않습니다.
+
+분석 도구를 통해 자동으로 수집되는 비개인 식별 정보는 다음과 같습니다.
+
+기술 데이터: IP 주소(익명화될 수 있음), 브라우저 유형 및 버전, 운영 체제, 화면 해상도
+
+활동 데이터: 방문 시간, 세션 지속 시간, 조회 페이지, 유입 경로(검색 엔진, 소셜 미디어), 웹사이트 요소 클릭 횟수.
+
+처리 목적: 사이트 사용자 행동 분석, 기술적 문제 파악, 콘텐츠 효과 평가 및 사용자 경험 개선.
+
+3. 처리의 법적 근거
+상기 익명화된 데이터 처리는 귀하의 기본권과 자유를 침해하지 않는 범위 내에서, 당사 웹사이트의 성능 분석 및 개발이라는 정당한 이익(GDPR 제6조 1항 (f)호)에 근거합니다.
+
+4. 쿠키 및 유사 기술
+당사는 쿠키 및 유사 기술(로컬 스토리지, 애널리틱스 픽셀)을 분석 목적으로만 사용합니다.
+
+쿠키 종류: 필수 쿠키(사이트 기본 기능용) 및 분석/성능 쿠키.
+
+분석 서비스: Google Analytics를 사용합니다. Google에서 수집한 데이터는 귀하의 거주 국가 외부에 있는 서버에서 처리될 수 있습니다. Google Analytics 데이터 수집을 거부하려면 다음 링크에서 제공되는 브라우저 추가 기능을 설치하세요. https://tools.google.com/dlpage/gaoptout
+
+사이트를 처음 방문하시면 쿠키 동의 알림이 표시됩니다. 사이트를 계속 사용하시면 위에서 설명한 대로 쿠키 사용에 동의하는 것으로 간주됩니다.
+
+5. 데이터 공유 및 제3자
+당사는 귀하의 데이터를 판매, 임대 또는 거래하지 않습니다. 당사는 엄격한 계약에 따라 필수적인 서비스 제공업체와만 데이터를 공유합니다.
+
+Google LLC: 웹사이트 사용에 대한 익명화된 데이터를 처리하기 위한 분석 제공업체입니다. Google은 자체 개인정보처리방침을 보유하고 있으며, 해당 정책을 검토하시기를 권장합니다.
+
+Netlify Inc.: 호스팅 제공업체입니다. 운영 및 보안 목적으로 IP 주소가 포함된 서버 로그에 접근할 수 있습니다.
+
+법률에 의해 요구되거나 당사의 법적 권리를 보호하기 위해 필요한 경우 정보를 공개할 수 있습니다.
+
+6. 데이터 저장 및 보안
+
+저장 기간: 수집된 분석 데이터는 6개월 동안 보관됩니다. 이 기간이 지나면 데이터는 자동으로 삭제되거나 익명화됩니다.
+
+보안 조치: 당사는 데이터 전송 시 SSL/TLS 암호화(HTTPS)를 사용하는 등 데이터를 보호하기 위해 합리적인 기술적 및 조직적 조치를 시행합니다. 모든 데이터에 대한 접근은 승인된 직원으로만 제한됩니다.
+
+7. 국제 데이터 전송
+당사는 전 세계적으로 운영되는 Google Analytics를 사용하므로 데이터가 미국 또는 기타 국가로 전송되어 처리될 수 있습니다. Google은 유럽 당국의 승인을 받은 표준 계약 조항(SCC)을 통해 적절한 수준의 데이터 보호를 보장합니다.
+
+8. 귀하의 권리
+거주 지역에 따라 귀하는 개인 데이터와 관련하여 다음과 같은 권리를 가질 수 있습니다.
+
+접근권: 당사가 보유하고 있는 데이터에 대한 정보를 요청할 권리.
+
+정정권: 부정확한 데이터를 수정할 권리.
+
+삭제권("잊힐 권리"): 귀하의 데이터 삭제를 요청할 권리.
+
+처리 제한권: 귀하의 데이터 처리를 일시적으로 중단할 권리.
+
+이의 제기권: 정당한 이익에 기반한 처리에 이의를 제기할 권리.
+
+데이터 이동권: 구조화된 형식으로 데이터를 받을 권리.
+
+동의 철회권: 데이터 처리가 동의에 기반한 경우, 언제든지 동의를 철회할 수 있습니다.
+
+위 권리 행사를 원하시면 hvess00@gmail.com으로 문의해 주십시오. 한 달 이내에 답변드리겠습니다.
+
+9. 아동 개인정보 보호
+저희 웹사이트는 만 14세 미만 사용자를 대상으로 하지 않습니다. 저희는 아동의 개인정보를 고의로 수집하지 않습니다. 만약 부모 또는 보호자께서 자녀가 저희에게 데이터를 제공했다고 생각하시는 경우, 저희에게 연락해 주시면 해당 데이터를 삭제하겠습니다.
+
+10. 개인정보 처리방침 변경
+저희는 본 개인정보 처리방침을 정기적으로 업데이트할 수 있습니다. 중요한 변경 사항이 있을 경우, 이 페이지에 새 버전을 게시하고 "최종 업데이트" 날짜를 업데이트하여 알려드리겠습니다. 이 페이지를 주기적으로 확인해 주시기 바랍니다.
+
+11. 문의
+본 개인정보 처리방침 또는 귀하의 데이터와 관련하여 질문, 우려 사항 또는 요청 사항이 있으시면 다음 연락처로 문의해 주십시오.
+Bereza Studio
+이메일: hvess00@gmail.com
